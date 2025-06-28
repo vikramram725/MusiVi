@@ -15,10 +15,12 @@ captures/
 *.aab
 *.apk
 output-metadata.json
+.kotlin
 
 # IntelliJ
 *.iml
 .idea/
+.DS_Store
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
@@ -32,3 +34,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+#Xcode
+xcuserdata
